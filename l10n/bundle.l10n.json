@@ -1,0 +1,17 @@
+{
+    "loginInTitle": "Log in",
+    "featuresTitle": "Features",
+    "feature1Title": "Access to your ChatGPT conversation history",
+    "feature2Title": "Improve your code, add tests & find bugs",
+    "feature3Title": "Copy or create new files automatically",
+    "feature4Title": "Syntax highlighting with auto language detection",
+    "askInputPlaceholder": "Ask a question...",
+    "newChatTitle": "New chat",
+    "conversationsTitle": "Show conversations",
+    "settingsTitle": "Update settings",
+    "exportTitle": "Export to markdown",
+    "submitTitle": "Submit prompt",
+    "promptTitle": "Update prompts",
+    "thinkTitle": "Thinking",
+    "stopRespondingTitle": "Stop responding"
+}

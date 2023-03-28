@@ -1,0 +1,17 @@
+{
+    "loginInTitle": "登录",
+    "featuresTitle": "功能",
+    "feature1Title": "访问您的ChatGPT对话历史",
+    "feature2Title": "改进你的代码，添加测试并发现漏洞",
+    "feature3Title": "自动复制或创建新文件",
+    "feature4Title": "使用自动语言检测功能高亮显示语法",
+    "askInputPlaceholder": "请向我提问...",
+    "newChatTitle": "新的聊天",
+    "conversationsTitle": "显示会话历史",
+    "settingsTitle": "更新设置",
+    "exportTitle": "导出为markdown",
+    "submitTitle": "提交输入内容",
+    "promptTitle": "更新输入设置",
+    "thinkTitle": "思考中",
+    "stopRespondingTitle": "中断回答"
+}
